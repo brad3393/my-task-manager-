@@ -1,0 +1,8 @@
+{
+  "name": "My Task Manager",
+  "description": "A sleek, responsive task management application with priority tracking, categories, subtasks, search, and progress metrics.",
+  "permissions": [],
+  "capabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
